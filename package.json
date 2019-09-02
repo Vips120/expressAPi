@@ -1,0 +1,22 @@
+{
+  "name": "expressapi",
+  "version": "1.0.0",
+  "description": "API",
+  "main": "index.ks",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vips120/expressAPi.git"
+  },
+  "author": "Vipul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vips120/expressAPi/issues"
+  },
+  "homepage": "https://github.com/Vips120/expressAPi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
